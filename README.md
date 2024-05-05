@@ -28,6 +28,6 @@ To build and run this application you can use docker compose file
 
 ## Workings Screenshot
 
-![App Screenshot](/images/Screenshot%20(8).png)
-![App Screenshot](/images/Screenshot%20(1).png)
+<img src="/images/Screenshot%20(8).png" width="700" height="500"> <img src="/images/Screenshot%20(1).png" width="700" height="500">
+<img src="/images/Screenshot%20(4).png" width="700" height="500"> <img src="/images/Screenshot%20(7).png" width="700" height="500">
 
